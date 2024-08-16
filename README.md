@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EternalEnd9293
 - 👀 I’m interested in game development mascot horror in development 
-- 🌱 I’m currently learning C# and gdscript
+- 🌱 I’m currently learning C# and gdscript and java
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 join my discord https://discord.com/invite/7Wwcej7y
 
